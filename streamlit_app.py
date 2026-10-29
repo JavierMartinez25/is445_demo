@@ -9,7 +9,7 @@
 import streamlit as st
 import altair as alt
  
-st.title('My IS445 Example ID12695')
+st.title('Streamlit App for IS445: ID12695')
 
 st.text("The URL for this app is: https://javiermartinez25-is445-lab8.streamlit.app/")
 st.text("The URL for its GitHub repo is: https://github.com/JavierMartinez25/is445_demo")
