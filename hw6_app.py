@@ -151,6 +151,13 @@ st.write(
     "the number of reports by season and classification."
 )
 
+st.write(
+    "Report classifications: Class A represents clearer "
+    "sightings with a lower chance of misidentification, "
+    "Class B represents reports with more uncertainty, "
+    "and Class C includes mostly secondhand accounts."
+)
+
 st.info(
     "Click on a state in the first chart to filter the "
     "second chart. Double-click to clear the selection "
